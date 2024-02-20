@@ -1,0 +1,26 @@
+
+h2 {
+    font-family: "Cormorant", serif;
+    text-shadow: 2px 2px 2px black;
+    padding: 20px 0;
+    margin: 12px;
+    color: blue;
+}
+html{
+    background-color: blue;
+}
+body{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    background-color: orange;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+    text-size-adjust: 16;
+}
